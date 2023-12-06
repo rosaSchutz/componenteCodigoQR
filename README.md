@@ -48,4 +48,4 @@ I've been using TailwindCSS a bit, and I'm still working on some things. One of 
 ## Author
 
 - Website - [Rosa Piñeros](https://portfolio-rosa-pineros.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rosaSchutz)
+- Frontend Mentor - [@rosaSchutz](https://www.frontendmentor.io/profile/rosaSchutz)
